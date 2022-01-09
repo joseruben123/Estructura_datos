@@ -1,0 +1,15 @@
+while True:
+    print("Opcion 1 - comenzar programa")
+    print("Opcion 2 - imprimir listado")
+    print("Opcion 3 - finalizar programa")
+    opcion=int(input("Opcion elegida: "))
+    if opcion==1:
+        print("Comenzamos!")
+    elif opcion==2:
+        print("Listado: ")
+        print("Nadia, esteban,mariela, fernanda")
+    elif opcion==3:
+        print("Hasta la proxima")
+        break
+    else:
+        print("Opcion incorrecta. Debe ingresar 1, 2 o 3")

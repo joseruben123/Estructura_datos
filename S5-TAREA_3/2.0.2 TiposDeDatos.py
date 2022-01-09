@@ -1,0 +1,37 @@
+Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+a=10
+b=4
+a+b
+14
+a
+10
+b
+4
+c=a+b
+c
+14
+b/a
+0.4
+b//a
+0
+b%a
+4
+16789%10
+9
+5/2
+2.5
+5%2
+1
+2%2
+0
+4%2
+0
+6%2
+0
+3%2
+1
+5%2
+1
+7%2
+1
